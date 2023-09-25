@@ -1,0 +1,11 @@
+managers →
+username: admin
+password: lemon123!
+
+delivery crew →
+username: Juan
+password: juan123!
+
+users →
+username: Fabian
+password: lemon123!
